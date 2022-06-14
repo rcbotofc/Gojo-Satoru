@@ -19,23 +19,23 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
+global.owner = ['94760487326']
+global.premium = ['94760487326']
+global.ownernomer = '94760487326'
+global.ownername = 'Rc_hatake❤️'
+global.botname = 'RC_BOT_OFC'
+global.footer = 'Rc_bot🧑‍💻'
 global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
+global.region = 'Srilanka, South, Galle'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
-global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.myweb = 'Youtube නැ collo'
+global.packname = 'RC_BOT_OFC'
+global.author = '🐦RC_චමියා❤️'
+global.sessionName = 'Rc_Bot_Session'
+global.prefa = ['','!','.','🧑‍💻','🍁','🍂']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'RC_BOT_Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
